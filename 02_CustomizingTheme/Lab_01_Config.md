@@ -62,7 +62,7 @@ To customize your theme's appearance at a global level, the values that you defi
 1. **Open** the locally installed Cornerstone theme in your IDE
 2. **Ensure** the _CLI is initialized_ an the _theme is launched_ on local host 3000
 
-Please see [Stencil Docs](/developer/docs/storefront/stencil/getting-started) for reference files.
+Please see [Stencil Docs](http://docs.bigcommerce.com/developer/docs/storefront/stencil/getting-started) for reference files.
 
 3. **Open** config.json in your IDE
 4. **Locate** &quot;footer-backgroundColor&quot;

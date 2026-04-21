@@ -37,7 +37,7 @@ stencil bundle
 2. The _bundle_ command will notify you of its progress and completion
 3. A _.zip_ file is generated
 
-Check the resulting .zip file's size. (It cannot exceed 50 MB). If your .zip file meets this requirement you are now ready to [upload your theme](/developer/docs/storefront/stencil/deployment/upload).
+Check the resulting .zip file's size. (It cannot exceed 50 MB). If your .zip file meets this requirement you are now ready to [upload your theme](http://docs.bigcommerce.com/developer/docs/storefront/stencil/deployment/upload).
 
 If your .zip file exceeds 50 MB, you will need to use one of the following procedures to restructure your theme to a size that is manageable for upload to BigCommerce:
 

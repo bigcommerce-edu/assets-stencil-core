@@ -66,7 +66,7 @@
 2. **Add** a new language Danish - dansk
 3. **Move** to the top of the priority list
 
-![Chrome language settings with Danish added](/../images/CSlangoptions.png)
+![Chrome language settings with Danish added](../images/CSlangoptions.png)
 
 4. **Observe** translated footer:
 
