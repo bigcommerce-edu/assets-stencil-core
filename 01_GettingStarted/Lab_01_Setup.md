@@ -58,7 +58,25 @@ When setting the theme scope to publish theme, note the difference between local
 
 6. **Click** Save
 
-## Step 2: Install Stencil CLI
+## Step 2: (Optional) Enable Makeswift
+
+For users wanting to explore the capabilities of the Makeswift editor, follow these instructions to enable Makeswift on your channel and provision a Makeswift site. If you only want to work with the Stencil CLI, you can skip this step.
+
+**Makeswift for Stencil is a Beta feature.** Functionality and control panel steps may change, and it should not be relied on for production stores.
+
+1. **Log in** to the control panel of the store you are developing on
+2. **Navigate** to Channel Manager
+3. **Select** the storefront channel you are developing on
+4. **Opt in** to Makeswift for the channel when prompted to enable the visual editor
+
+Once Makeswift is enabled for the channel, provision your Makeswift site:
+
+5. **Return** to the channel's entry in Channel Manager
+6. **Click** Edit in Makeswift
+
+The first time you click **Edit in Makeswift**, BigCommerce provisions a Makeswift site for the channel and opens the Makeswift editor. From here you can visually edit pages built on your Stencil theme. For more detail, see [Makeswift on Stencil](https://docs.makeswift.com/product/docs/guides/makeswift-on-stencil).
+
+## Step 3: Install Stencil CLI
 
 This step only needs to be performed once for a specific version of Node.js.
 
@@ -92,7 +110,7 @@ Versions are subject to change; ensure you are using a supported Node version. I
 stencil -h
 ```
 
-## Step 3: Clone the Cornerstone Theme
+## Step 4: Clone the Cornerstone Theme
 
 1. **Use** the following command to clone the base theme into your chosen directory
 
@@ -122,7 +140,7 @@ ex. The Cornerstone theme was cloned to a folder called &quot;Development&quot;.
 npm install
 ```
 
-## Step 4: Initialize and Launch Stencil CLI
+## Step 5: Initialize and Launch Stencil CLI
 
 1. **Use** the following command in the theme directory
 
