@@ -78,7 +78,7 @@ Note the use of the _cdn_ helper to reference the asset file.
 
 #### Step 1.3: Add the New Font to Available Schema
 
-To make sure the new font is available in the fonts list when editing in Page Builder, add it in _schema.json_.
+To make sure the new font is available in the fonts list when editing in the theme editor in the control panel, add it in _schema.json_.
 
 1. **Open** the file _schemaTranslations.json_
 2. **Add** translated labels related to the new font

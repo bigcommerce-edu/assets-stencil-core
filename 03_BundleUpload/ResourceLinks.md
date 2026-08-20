@@ -8,4 +8,6 @@
 * [Staging a Theme for CDN Delivery](https://support.bigcommerce.com/s/article/Optimizing-Your-Images?language=en_US#imageop-cdn)
 * [Theme Updates and Version Control](https://docs.bigcommerce.com/developer/docs/storefront/stencil/deployment/updates-and-version-control)
 * [Theme Metadata Images](https://docs.bigcommerce.com/developer/docs/storefront/stencil/deployment/theme-images)
+* [Theme Styles Configuration](https://docs.bigcommerce.com/developer/docs/storefront/stencil/themes/foundations/customizability)
+* [Theme Objects and Properties](https://docs.bigcommerce.com/developer/docs/storefront/stencil/themes/context/object-reference/schemas)
 
